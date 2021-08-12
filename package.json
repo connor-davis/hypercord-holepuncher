@@ -1,0 +1,14 @@
+{
+  "name": "hypercord-holepuncher",
+  "version": "0.0.1",
+  "description": "The holepuncher for HyperCord",
+  "main": "index.js",
+  "repository": "https://github.com/connor-davis/hypercord-holepuncher",
+  "author": "Connor Davis <19422@kloofhigh.co.za>",
+  "license": "GPL-3.0",
+  "private": false,
+  "dependencies": {
+    "dgram": "^1.0.1",
+    "internal-ip": "^6.2.0"
+  }
+}
